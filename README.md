@@ -23,11 +23,11 @@ Which customer segments offer the strongest potential for market entry?
 
 How should the product be positioned, priced, and distributed?
 
-Research Methodology
+**Research Methodology**
 
 The research combined secondary market analysis with primary consumer research.
 
-Primary Research
+**Primary Research**
 
 Conducted a consumer survey with 56 respondents.
 
@@ -35,7 +35,7 @@ Used a 21-question questionnaire covering purchasing behavior, product preferenc
 
 Analyzed responses to identify consumer priorities and potential adoption barriers.
 
-Secondary Research
+**Secondary Research**
 
 Market environment and competitive analysis
 
@@ -45,59 +45,41 @@ Customer segmentation and target market assessment
 
 Product positioning and marketing mix development
 
-Key Consumer Insights
+**Key Consumer Insights**
 
-Research Finding
+Consumers prioritizing cleaning effectiveness = 85.7%
 
-Survey Result
+Consumers considering scent important = 62.5%
 
-Consumers prioritizing cleaning effectiveness
+Consumers valuing convenience = 53.6%
 
-85.7%
+Consumers considering price important = 51.8%
 
-Consumers considering scent important
+Consumers considering environmental friendliness important = 46.4%
 
-62.5%
+Consumers purchasing cleaning products from supermarkets =96.4%
 
-Consumers valuing convenience
+Consumers positively inclined to switch if the product is effective =82.2%
 
-53.6%
+**Strategic Implications**
 
-Consumers considering price important
-
-51.8%
-
-Consumers considering environmental friendliness important
-
-46.4%
-
-Consumers purchasing cleaning products from supermarkets
-
-96.4%
-
-Consumers positively inclined to switch if the product is effective
-
-82.2%
-
-Strategic Implications
-
-Product Value Proposition
+**Product Value Proposition**
 
 Cleaning effectiveness emerged as the leading purchase consideration. Therefore, the proposed product positioning should emphasize reliable cleaning performance alongside convenience and environmental benefits.
 
-Customer Adoption
+**Customer Adoption**
 
 Survey responses indicated substantial openness to switching products if DryClean Tablets proved effective. This supports prioritizing product demonstrations, trial opportunities, and evidence of performance in a potential launch strategy.
 
-Distribution Strategy
+**Distribution Strategy**
 
 Supermarkets were the most frequently reported purchasing channel among respondents, suggesting that physical retail distribution should be considered alongside online channels.
 
-Target Market & Product Positioning
+**Target Market & Product Positioning**
 
 The marketing strategy considered both consumer and institutional markets.
 
-B2C Segments
+**B2C Segments**
 
 Environmentally conscious consumers
 
@@ -105,7 +87,7 @@ Younger consumers open to alternative cleaning solutions
 
 Convenience-oriented consumers seeking practical laundry products
 
-Potential B2B Segments
+**Potential B2B Segments**
 
 Hotels and accommodation providers
 
@@ -115,39 +97,27 @@ Hospitals and healthcare facilities
 
 The proposed positioning combines convenience, sustainability, and cleaning effectiveness to differentiate DryClean Tablets from conventional laundry products.
 
-Go-to-Market Strategy
+**Go-to-Market Strategy**
 
 The project developed marketing recommendations across four areas:
 
-Area
+Product : Waterless laundry concept, convenience, and cleaning effectiveness
 
-Strategic Focus
+Price : Consumer willingness to pay and perceived product value
 
-Product
+Place : Supermarkets, online channels, and potential institutional distribution
 
-Waterless laundry concept, convenience, and cleaning effectiveness
-
-Price
-
-Consumer willingness to pay and perceived product value
-
-Place
-
-Supermarkets, online channels, and potential institutional distribution
-
-Promotion
-
-Environmental messaging, product education, and awareness-building campaigns
+Promotion : Environmental messaging, product education, and awareness-building campaigns
 
 These recommendations represent a proposed marketing strategy rather than an implemented commercial launch.
 
-Project Deliverable
+**Project Deliverable**
 
-Full Market Research & Strategy Report
+**Full Market Research & Strategy Report**
 
 The report includes market analysis, primary research findings, customer segmentation, targeting, positioning, and marketing mix recommendations. The survey questionnaire is included in the report's appendices.
 
-Skills Demonstrated
+**Skills Demonstrated**
 
 Consumer Research & Survey Analysis
 
@@ -163,12 +133,16 @@ Go-to-Market Planning
 
 Research-Based Decision Making
 
-Project Context
+**Project Context**
 
 Institution: Bilkent University
+
 Course: MAN 335 – Marketing Plan
+
 Project Type: Academic Team Project
+
 Prepared By: Gökhan Gültekin and 4 other project team members
+
 Product Status: Conceptual product; proposed strategy, not a commercial launch
 
 This repository presents the research and strategic recommendations developed collaboratively by a five-member project team. Team members' personal information has been omitted from the publicly shared report for privacy purposes.
